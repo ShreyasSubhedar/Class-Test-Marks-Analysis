@@ -54,7 +54,7 @@
 <tr>
   
 <td colspan="2" align="center">
-    <input type="submit" value="Login" onclick="return validate()">
+    <input type="submit" value="Login" onclick="return validate()">   <! ---adding validations for email and passsword using js>
 
 </td>
 </tr>
